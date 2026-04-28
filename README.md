@@ -37,13 +37,13 @@ If you are working in Google Colab:
 
 | Field | Details |
 |---|---|
-| **Project Title** | _To be filled by team_ |
+| **Project Title** | NYC_Real_Estate_Analysis |
 | **Sector** | _e.g. Retail, Finance, Healthcare, EdTech_ |
 | **Team ID** | _e.g. DVA-B1-T3_ |
-| **Section** | _To be filled by team_ |
+| **Section** | B |
 | **Faculty Mentor** | _To be filled by team_ |
 | **Institute** | Newton School of Technology |
-| **Submission Date** | _To be filled by team_ |
+| **Submission Date** | 29 April 2026 |
 
 ### Team Members
 
