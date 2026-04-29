@@ -69,8 +69,8 @@ This analysis helps investors, brokers, and market analysts identify profitable 
 |---|---|
 | **Source Name** | NYC Rolling Sales Dataset / Kaggle |
 | **Direct Access Link** | _Paste the direct download or access URL_ |
-| **Row Count** |33,167 |
-| **Column Count** | 19 |
+| **Row Count** | 84,548(Raw) / 33168(Processed) |
+| **Column Count** | 22(Raw) / 19(Processed) |
 | **Time Period Covered** |2016 – 2017 |
 | **Format** | CSV |
 
